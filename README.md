@@ -20,3 +20,6 @@ This project, thus, was also an excercise in translating program code between di
 ## Meta
 
 Philipp Skudlik
+[https://github.com/pskugit](https://github.com/pskugit/)
+
+pskugit
