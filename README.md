@@ -3,7 +3,7 @@
 
 ![](/images/trees2.png?raw=true "Optional Title")
 
-Running either script, creates a unique image of a tree. The aim of this work was to make the tree appear as organic as possible whilst still retaining its origin as a fractal tree.
+Running either script, creates a unique image of a tree. The aim of this work was to make the tree appear as organic as possible whilst still retaining its origin as a fractal tree and using only a single color gradient. 
 It was inspired by a Coding Challenge by Daniel Schiffman
 https://www.youtube.com/watch?v=0jjeOYMjmDU
 
