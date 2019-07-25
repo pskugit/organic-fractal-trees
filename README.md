@@ -4,7 +4,7 @@
 
 
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![](/images/trees2.png?raw=true "Optional Title")
 
 
 On click, a unique image of a tree is generated. The aim of this work was to make the tree appear as organic as possible whilst still retaining its origin as a fractal tree.
