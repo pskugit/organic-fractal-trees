@@ -1,5 +1,5 @@
 # Organic Fractal Trees
-> An artistic interpretation of fractal trees written in both javascript and python.
+> An artistic interpretation of procedually generated fractal trees written in both javascript and python.
 
 ![](/images/trees2.png?raw=true "Optional Title")
 
